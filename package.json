@@ -1,6 +1,6 @@
 {
   "name": "electron-app-wallpaper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An Electron application with Vue",
   "main": "./out/main/index.js",
   "author": "example.com",
@@ -40,6 +40,7 @@
     "@vitejs/plugin-vue": "^4.0.0",
     "@vue/eslint-config-prettier": "^7.0.0",
     "conventional-changelog": "^3.1.25",
+    "conventional-changelog-cli": "^2.2.2",
     "electron": "^24.3.0",
     "electron-builder": "^23.6.0",
     "electron-vite": "^1.0.17",
@@ -47,6 +48,7 @@
     "eslint-plugin-vue": "^9.8.0",
     "less": "^4.1.3",
     "prettier": "^2.8.2",
+    "prompts": "^2.4.2",
     "vite": "^4.0.4",
     "vue": "^3.2.45",
     "zx": "^7.2.2"
