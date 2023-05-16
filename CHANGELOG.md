@@ -1,4 +1,8 @@
-## 1.0.2 (2023-05-16)
+## [1.0.3](https://github.com/artiely/electron-app-wallpaper/compare/v1.0.2...v1.0.3) (2023-05-16)
+
+
+
+## [1.0.2](https://github.com/artiely/electron-app-wallpaper/compare/8b9ec590f7d6bcf6f7ab5015a62db5e72b6e6c49...v1.0.2) (2023-05-16)
 
 
 ### Bug Fixes
