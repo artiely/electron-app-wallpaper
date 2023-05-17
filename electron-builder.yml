@@ -1,4 +1,4 @@
-appId: com.electron.app
+appId: com.tj.app
 productName: electron-app-wallpaper
 directories:
   buildResources: build
@@ -39,3 +39,8 @@ npmRebuild: false
 publish:
   provider: generic
   url: https://example.com/auto-updates
+protocols:
+  name: tj-screensaver
+  schemes:
+   - tj-screensaver
+  role: Editor
